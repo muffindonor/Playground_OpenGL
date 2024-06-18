@@ -141,41 +141,41 @@ int main(int argc, char** argv)
 	glutTimerFunc(ANIMATION_DELAY, TimerCB, 0);
 
 	//specify textures and setting Specific texture parameters
-	mapTexture = generateTextures("park-map.bmp");
-	insTexture = generateTextures("instructions.bmp");
-	sun = generateTextures("sun5.bmp");
+	mapTexture = generateTextures("Textures/park-map.bmp");
+	insTexture = generateTextures("Textures/instructions.bmp");
+	sun = generateTextures("Textures/sun5.bmp");
 
-	shavTextureId[0] = generateTextures("wood2.bmp");
-	shavTextureId[1] = generateTextures("silver.bmp");
-	shavTextureId[2] = generateTextures("paper.bmp");
-	shavTextureId[3] = generateTextures("paper2.bmp"); //2nd Texture Option for windmill
+	shavTextureId[0] = generateTextures("Textures/wood2.bmp");
+	shavTextureId[1] = generateTextures("Textures/silver.bmp");
+	shavTextureId[2] = generateTextures("Textures/paper.bmp");
+	shavTextureId[3] = generateTextures("Textures/paper2.bmp"); //2nd Texture Option for windmill
 
-	swingTextureId[0] = generateTextures("wood2.bmp");
-	swingTextureId[1] = generateTextures("rope.bmp");
-	swingTextureId[2] = generateTextures("wood.bmp");
-	swingTextureId[3] = generateTextures("wood3.bmp"); //2nd Texture Option for swing
+	swingTextureId[0] = generateTextures("Textures/wood2.bmp");
+	swingTextureId[1] = generateTextures("Textures/rope.bmp");
+	swingTextureId[2] = generateTextures("Textures/wood.bmp");
+	swingTextureId[3] = generateTextures("Textures/wood3.bmp"); //2nd Texture Option for swing
 
-	wallTexture[0] = generateTextures("brick.bmp");
-	ballTexture[0] = generateTextures("football.bmp");
-	wallTexture[1] = generateTextures("brick_gr.bmp");	//2nd Texture Option for wall
-	ballTexture[1] = generateTextures("basketball.bmp"); //2nd Texture Option for ball
+	wallTexture[0] = generateTextures("Textures/brick.bmp");
+	ballTexture[0] = generateTextures("Textures/football.bmp");
+	wallTexture[1] = generateTextures("Textures/brick_gr.bmp");	//2nd Texture Option for wall
+	ballTexture[1] = generateTextures("Textures/basketball.bmp"); //2nd Texture Option for ball
 
-	space[0] = generateTextures("sun.bmp");
-	space[1] = generateTextures("earth.bmp");
-	space[2] = generateTextures("moon.bmp");
-	space[3] = generateTextures("sun2.bmp"); //2nd Texture Option
-	space[4] = generateTextures("earth2.bmp");//2nd Texture Option 
-	space[5] = generateTextures("moon2.bmp"); //2nd Texture Option
+	space[0] = generateTextures("Textures/sun.bmp");
+	space[1] = generateTextures("Textures/earth.bmp");
+	space[2] = generateTextures("Textures/moon.bmp");
+	space[3] = generateTextures("Textures/sun2.bmp"); //2nd Texture Option
+	space[4] = generateTextures("Textures/earth2.bmp");//2nd Texture Option 
+	space[5] = generateTextures("Textures/moon2.bmp"); //2nd Texture Option
 
-	carrousel[1] = generateTextures("lines.bmp");
-	carrousel[2] = generateTextures("lego.bmp"); //2nd Texture Option for carrousel's top
+	carrousel[1] = generateTextures("Textures/lines.bmp");
+	carrousel[2] = generateTextures("Textures/lego.bmp"); //2nd Texture Option for carrousel's top
 
-	parkCube[SKY_RIGHT] = generateTextures("1_ny.bmp");
-	parkCube[SKY_LEFT] = generateTextures("1_py.bmp");
-	parkCube[SKY_UP] = generateTextures("1_pz.bmp");
-	parkCube[SKY_DOWN] = generateTextures("1_nz.bmp");
-	parkCube[SKY_BACK] = generateTextures("1_px.bmp");
-	parkCube[SKY_FRONT] = generateTextures("1_nx.bmp");
+	parkCube[SKY_RIGHT] = generateTextures("Textures/1_ny.bmp");
+	parkCube[SKY_LEFT] = generateTextures("Textures/1_py.bmp");
+	parkCube[SKY_UP] = generateTextures("Textures/1_pz.bmp");
+	parkCube[SKY_DOWN] = generateTextures("Textures/1_nz.bmp");
+	parkCube[SKY_BACK] = generateTextures("Textures/1_px.bmp");
+	parkCube[SKY_FRONT] = generateTextures("Textures/1_nx.bmp");
 
 
 	//Menus

@@ -1,4 +1,1 @@
-C:\Users\alexs\Desktop\course7\graphics\LabProjectWithGlut_VS2019\Debug\LabProjectWithGlut.exe
-C:\Users\alexs\Desktop\course7\graphics\project\LabProjectWithGlut_VS2019\Debug\LabProjectWithGlut.exe
 C:\Users\The Batul\source\repos\LabProjectWithGlut\LabProjectWithGlut\Debug\LabProjectWithGlut.vcxproj.CopyComplete
-C:\Users\The Batul\source\repos\LabProjectWithGlut\LabProjectWithGlut\Debug\LabProjectWithGlut.exe
