@@ -17,15 +17,15 @@ Key features include:
 
 Keyboard buttons:
 Arrowkeys - Camera rotation
-+\- - Zoom in/out
-0 - Reset camera position
-1-5 - Turn on/off lighting elements 1-5
-A - Start/Stop objects' animation
-L - On/Off all lighting elements
-T - On/Off all textures
-S - Change objects' textures
-C - Cycle camera's position between current objects
-N - Turn on/off day cycle
+- +\- - Zoom in/out
+- 0 - Reset camera position
+- 1-5 - Turn on/off lighting elements 1-5
+- A - Start/Stop objects' animation
+- L - On/Off all lighting elements
+- T - On/Off all textures
+- S - Change objects' textures
+- C - Cycle camera's position between current objects
+- N - Turn on/off day cycle
 
 - All objects have the same material properties
 - There are two texture variants for most models
