@@ -27,8 +27,6 @@ Arrowkeys - Camera rotation
 - C - Cycle camera's position between current objects
 - N - Turn on/off day cycle
 
-- All objects have the same material properties
-- There are two texture variants for most models
 
 ## License
 
