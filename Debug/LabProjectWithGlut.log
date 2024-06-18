@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\The Batul\source\repos\LabProjectWithGlut\LabProjectWithGlut\main.c(834,9): warning C4101: 'k': unreferenced local variable
+  LabProjectWithGlut.vcxproj -> C:\Users\The Batul\source\repos\LabProjectWithGlut\Debug\LabProjectWithGlut.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
