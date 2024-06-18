@@ -1,5 +1,13 @@
 ## Description
-This is an OpenGL project depicting a playground with several moving models, as well as different lightings, textures and a rotating sun.
+This project is an interactive graphics application developed using OpenGL and GLUT. It features a collection of 3D models demonstrating various rendering techniques and animations. The application showcases different models, lighting effects, and transformations to illustrate the capabilities of OpenGL in rendering complex scenes. Users can interact with the models through various input methods, allowing for real-time manipulation and exploration of the 3D environment.
+
+Key features include:
+
+- Multiple 3D models with detailed geometries.
+- Real-time lighting and shading effects.
+- Interactive camera controls for navigating the scene.
+- Animation and transformation of models.
+- Use of GLUT for window management and handling user inputs.
 
 ## Usage
 
