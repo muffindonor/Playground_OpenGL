@@ -22,3 +22,13 @@ N - Turn on/off day cycle
 - All objects have the same material properties
 - There are two texture variants for most models
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Third-Party Libraries
+
+This project uses the following third-party libraries:
+
+- **OpenGL**: Provided under the [MIT License](https://opensource.org/licenses/MIT).
+- **GLUT**: Provided under the [MIT License](https://opensource.org/licenses/MIT).
