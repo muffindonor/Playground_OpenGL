@@ -777,6 +777,7 @@ void TimerCB(int value)
 				lightR -= 0.01;
 		}
 
+
 	}
 	glutTimerFunc(ANIMATION_DELAY, TimerCB, value);
 	glutPostRedisplay();
