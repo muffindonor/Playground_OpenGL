@@ -1,4 +1,4 @@
-![Project Visualization](https://raw.githubusercontent.com/muffindonor/Playground_OpenGL/demo.gif)
+(https://raw.githubusercontent.com/muffindonor/Playground_OpenGL/demo.gif)
 
 
 ## Description
