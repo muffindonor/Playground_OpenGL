@@ -1,3 +1,6 @@
+![Project Visualization](https://raw.githubusercontent.com/muffindonor/Playground_OpenGL/demo.gif)
+
+
 ## Description
 This project is an interactive graphics application developed using OpenGL and GLUT. It features a collection of 3D models demonstrating various rendering techniques and animations. The application showcases different models, lighting effects, and transformations to illustrate the capabilities of OpenGL in rendering complex scenes. Users can interact with the models through various input methods, allowing for real-time manipulation and exploration of the 3D environment.
 
